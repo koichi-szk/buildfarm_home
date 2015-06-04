@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -avhz -p -e ssh * everest:webapp
